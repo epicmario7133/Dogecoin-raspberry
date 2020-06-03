@@ -1,6 +1,8 @@
 # Dogecoin-raspberry
 Dogecoin balance on 0.96 I2C Display On Raspberry
 
+![IMG_20200603_183639](https://user-images.githubusercontent.com/56398081/83664464-523e1a80-a5ca-11ea-8956-3ba3a7b7ad34.jpg)
+
 First of all you have to install these packages with these commands:
 
 sudo apt-get update
@@ -61,3 +63,8 @@ Pin is not badly connected
 
 or the display is not a 128x64 Pixel I2C
 
+Do donation whit doge:
+
+DQax3WxFFPa5b5YmmwzJnek7Yknx3GFgsx
+
+![DQax3WxFFPa5b5YmmwzJnek7Yknx3GFgsx](https://user-images.githubusercontent.com/56398081/83665414-b01f3200-a5cb-11ea-8a15-4a424647f937.png)
