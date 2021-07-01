@@ -1,2 +1,2 @@
-urllib.request
+requests
 Adafruit_SSD1306
